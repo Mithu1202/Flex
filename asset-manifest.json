@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flex/static/css/main.e7735b4f.css",
+    "main.js": "/Flex/static/js/main.a06682cb.js",
+    "static/js/453.07a87568.chunk.js": "/Flex/static/js/453.07a87568.chunk.js",
+    "index.html": "/Flex/index.html",
+    "main.e7735b4f.css.map": "/Flex/static/css/main.e7735b4f.css.map",
+    "main.a06682cb.js.map": "/Flex/static/js/main.a06682cb.js.map",
+    "453.07a87568.chunk.js.map": "/Flex/static/js/453.07a87568.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7735b4f.css",
+    "static/js/main.a06682cb.js"
+  ]
+}
